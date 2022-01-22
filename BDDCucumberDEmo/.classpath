@@ -1,50 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-core-1.2.5.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-core-6.9.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-html-0.2.7.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-java-1.2.4.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-junit-1.2.5.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-jvm-deps-1.0.5.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-jvm-deps-1.0.6.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/cucumber-reporting-5.4.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/gherkin-2.12.2.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/hamcrest-core-2.2.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/junit-4.13.1.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/mockito-all-2.0.2-beta.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/CucumberJarsNew/mockito-core-3.6.28.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-core-1.2.5.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-core-6.9.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-html-0.2.7.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-junit-1.2.5.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-jvm-deps-1.0.5.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-jvm-deps-1.0.6.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/cucumber-reporting-5.4.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/gherkin-2.12.2.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/hamcrest-core-2.2.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/junit-4.13.1.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/mockito-all-2.0.2-beta.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/jars/mockito-core-3.6.28.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/cucumber-core-6.9.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/cucumber-html-0.2.7.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/cucumber-java-1.2.4.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/cucumber-jvm-deps-1.0.6.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/cucumber-reporting-5.4.0.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/gherkin-2.12.2.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/hamcrest-core-2.2.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/junit-4.13.1.jar"/>
-	<classpathentry kind="lib" path="E:/Sonam/SeleniumBySonam/SoftwareRequiredForSelenium/Cucumberold/mockito-core-3.6.28.jar"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -14,7 +14,7 @@ public class ActualJavaCode {
 	@Given("^User open chrome browser$")
 	public void user_open_chrome_browser(){
 	    
-		System.setProperty("webdriver.chrome.driver", "E:\\Sonam\\SeleniumBySonam\\SoftwareRequiredForSelenium\\chromedriver_96.exe");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/BDDCucumberDEmo/src/Drivers/chromedriver_96.exe");
 		 driver = new ChromeDriver();
 	   
 	}

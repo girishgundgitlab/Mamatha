@@ -1,8 +1,5 @@
-@tag
 Feature: sanity testcases for facebook
- 
 
-  @tag1
   Scenario: Login to facebook
     Given User open chrome browser
     And Enter Url
